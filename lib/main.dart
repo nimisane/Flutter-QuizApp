@@ -44,7 +44,6 @@ class _QuizPageState extends State<QuizPage> {
       //This is the code for the basic alert from the docs for rFlutter Alert:
       //Alert(context: context, title: "RFLUTTER", desc: "Flutter is awesome.").show();
 
-      //Modified for our purposes:
       Alert(
         context: context,
         title: 'Finished!',
